@@ -1,1 +1,1 @@
-# calculator_calorie.github.io
+# calculatorcalorie.github.io
